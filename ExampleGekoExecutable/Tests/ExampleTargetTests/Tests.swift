@@ -7,5 +7,6 @@ final class ExampleTargetTests: XCTestCase {
         XCTAssert(true)
         XCTAssert(true)
         XCTAssert(true)
+        XCTAssert(true)
     }
 }
